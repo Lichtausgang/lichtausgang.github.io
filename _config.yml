@@ -1,15 +1,17 @@
-domain: example.com
-url: https://example.com
-baseurl: "/wind"
+domain: lichtausgang.github.io
+url: https://lichtausgang.github.io
+baseurl: "/"
 
-title: Wind
-email: wind@example.com
-author: Wind Sample
+title: Lichtausgang
+email: leo@zfk-hb.de
+author: Leo
 
 lang: en
 
 plugins:
   - jekyll-seo-tag
+
+theme: wind-theme
 
 color: "#13ccf9"
 # disqus:
