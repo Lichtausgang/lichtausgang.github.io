@@ -3,5 +3,5 @@ layout: home
 ---
 # Welcome
 
-Hello World. Hello Friend.
+Licht an? Licht aus!
 
