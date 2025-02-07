@@ -4,8 +4,6 @@ title: 'Ringe: A Minimalistic and Flexible Light Installation'
 image: /assets/images/ringe/ringe_thumb.jpg
 ---
 
-![Ringe at Spedition Bremen](/assets/images/ringe/topper.jpg)
-
 The "Ringe" art installation is a captivating blend of minimalism and flexibility, designed to transform any space with its unique light patterns. Inspired by the simplicity of geometric shapes, "Ringe" consists of a series of illuminated rings that can be arranged in various configurations to create different visual effects.
 
 The installation is highly adaptable, allowing it to be customized to fit the specific dimensions and aesthetic of the environment in which it is placed. Each ring emits a soft, ambient light that enhances the atmosphere without overwhelming it. 
@@ -31,6 +29,14 @@ All materials used meet at least the B1 fire protection class.
       <div class="text">Ringe @ SLS x ZfK in Bremen</div>
     </div>
   </div>
+
+  <div class="gallery-item">
+    <img src="{{site.baseurl}}/assets/images/ringe/topper.jpg" alt="Ringe @ SLS x ZfK in Bremen" class="w-full max-w-screen-sm h-auto shadow-md">
+    <div class="overlay">
+      <div class="text">Ringe @ SLS x ZfK in Bremen</div>
+    </div>
+  </div>
+  
 
   <div class="gallery-item">
     <img src="{{site.baseurl}}/assets/images/ringe/sls_2.jpg" alt="Ringe @ SLS x ZfK in Bremen" class="w-full max-w-screen-sm h-auto shadow-md">
