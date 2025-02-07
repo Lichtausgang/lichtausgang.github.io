@@ -26,14 +26,14 @@ All materials used meet at least the B1 fire protection class.
 <div class="md:w-4/5 mx-auto columns-2 md:columns-3 my-10 gap-0">
 
   <div class="gallery-item">
-    <img src="{{site.baseurl}}/assets/images/ringe/sls_1.jpg"> alt="Ringe @ SLS x ZfK in Bremen" class="w-full max-w-screen-sm h-auto shadow-md">
+    <img src="{{site.baseurl}}/assets/images/ringe/sls_1.jpg" alt="Ringe @ SLS x ZfK in Bremen" class="w-full max-w-screen-sm h-auto shadow-md">
     <div class="overlay">
       <div class="text">Ringe @ SLS x ZfK in Bremen</div>
     </div>
   </div>
 
   <div class="gallery-item">
-    <img src="{{site.baseurl}}/assets/images/ringe/sls_2.jpg"> alt="Ringe @ SLS x ZfK in Bremen" class="w-full max-w-screen-sm h-auto shadow-md">
+    <img src="{{site.baseurl}}/assets/images/ringe/sls_2.jpg" alt="Ringe @ SLS x ZfK in Bremen" class="w-full max-w-screen-sm h-auto shadow-md">
     <div class="overlay">
       <div class="text">Ringe @ SLS x ZfK in Bremen</div>
     </div>
@@ -44,10 +44,14 @@ All materials used meet at least the B1 fire protection class.
   </div>
 
   <div class="gallery-item">
-    <img src="{{site.baseurl}}/assets/images/ringe/skanda_1.jpg"> alt="Ringe @ Skandalös Festival 2024" class="w-full max-w-screen-sm h-auto shadow-md">
+    <img src="{{site.baseurl}}/assets/images/ringe/skanda_1.jpg" alt="Ringe @ Skandalös Festival 2024" class="w-full max-w-screen-sm h-auto shadow-md">
     <div class="overlay">
-      <div class="text">Ringe @ SLS x ZfK in Bremen</div>
+      <div class="text">Ringe @ Skandalös Festival 2024</div>
     </div>
   </div>
-</div>
 
+  <div class="gallery-item">
+    {% include vimeoPlayer.html id='1054528603?h=afcaf9f325' %}
+  </div>
+
+</div>
