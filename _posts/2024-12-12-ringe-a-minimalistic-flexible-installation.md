@@ -40,7 +40,7 @@ All materials used meet at least the B1 fire protection class.
   </div>
 
   <div class="gallery-item">
-    {% include vimeoPlayer.html id=1054528448?h=9cbd677d4a %}
+    {% include vimeoPlayer.html id='1054528448?h=9cbd677d4a' %}
   </div>
 
   <div class="gallery-item">
