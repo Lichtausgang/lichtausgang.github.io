@@ -41,7 +41,7 @@ All materials used meet at least the B1 fire protection class.
 
   <div class="gallery-item">
     <video controls class="w-full max-w-screen-sm h-auto shadow-md">
-      <source src="{{site.baseurl}}/assets/videos/Mov_0960-1.mp4" type="video/mp4">
+      <source src="{{site.baseurl}}/assets/videos/ringe/Mov_0960-1.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <div class="overlay">
