@@ -40,20 +40,26 @@ All materials used meet at least the B1 fire protection class.
   </div>
 
   <div class="gallery-item">
-    <video controls class="w-full max-w-screen-sm h-auto shadow-md">
-      <source src="{{site.baseurl}}/assets/images/ringe/Mov_0960-1.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div class="overlay">
-      <div class="text">Mov 0960-1</div>
-    </div>
-  </div>
-
-  <div class="gallery-item">
     <img src="{{site.baseurl}}/assets/images/ringe/skanda_1.jpg" alt="Ringe @ Skandalös Festival 2024" class="w-full max-w-screen-sm h-auto shadow-md">
     <div class="overlay">
       <div class="text">Ringe @ Skandalös Festival 2024</div>
     </div>
   </div>
+
+  <div class="gallery-item">
+      <video controls class="w-full max-w-screen-sm h-auto shadow-md">
+        <source src="{{site.baseurl}}/assets/images/ringe/Mov_0960-1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+  </div>
+
+  <div class="gallery-item">
+      <video controls class="w-full max-w-screen-sm h-auto shadow-md">
+        <source src="{{site.baseurl}}/assets/images/ringe/skanda.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+  </div>
+
+
 </div>
 
