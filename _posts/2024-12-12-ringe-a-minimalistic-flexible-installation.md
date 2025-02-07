@@ -8,11 +8,7 @@ image: /assets/images/ringe/ringe_thumb.jpg
 
 The "Ringe" art installation is a captivating blend of minimalism and flexibility, designed to transform any space with its unique light patterns. Inspired by the simplicity of geometric shapes, "Ringe" consists of a series of illuminated rings that can be arranged in various configurations to create different visual effects.
 
-The installation is highly adaptable, allowing it to be customized to fit the specific dimensions and aesthetic of the environment in which it is placed. Each ring emits a soft, ambient light that enhances the atmosphere without overwhelming it. The use of high-quality materials ensures that "Ringe" is not only visually striking but also durable and long-lasting.
-
-"Ringe" is more than just a light installation; it is an interactive experience. Viewers are encouraged to engage with the piece, exploring the interplay of light and shadow as they move around it. This dynamic interaction creates a sense of connection between the viewer and the installation, making each encounter with "Ringe" unique.
-
-Whether displayed in a gallery, a public space, or a private residence, "Ringe" brings a touch of elegance and sophistication to any setting. Its minimalist design and flexible configuration options make it a versatile addition to any art collection or interior design project.
+The installation is highly adaptable, allowing it to be customized to fit the specific dimensions and aesthetic of the environment in which it is placed. Each ring emits a soft, ambient light that enhances the atmosphere without overwhelming it. 
 
 ## Technical Details
 
@@ -27,9 +23,31 @@ All materials used meet at least the B1 fire protection class.
 
 ## Showcase
 
-### Ringe @ SLS x ZfK in Bremen
-{% include vimeoPlayer.html id=1054528603 %}
+<div class="md:w-4/5 mx-auto columns-2 md:columns-3 my-10 gap-0">
 
-![Ringe SLS 1](/assets/images/ringe/sls_1.jpg)
-![Ringe SLS 2](/assets/images/ringe/sls_2.jpg)
+  <div class="gallery-item">
+    <img src="{{site.baseurl}}/assets/images/ringe/sls_1.jpg"> alt="Ringe @ SLS x ZfK in Bremen" class="w-full max-w-screen-sm h-auto shadow-md">
+    <div class="overlay">
+      <div class="text">Ringe @ SLS x ZfK in Bremen</div>
+    </div>
+  </div>
+
+  <div class="gallery-item">
+    <img src="{{site.baseurl}}/assets/images/ringe/sls_2.jpg"> alt="Ringe @ SLS x ZfK in Bremen" class="w-full max-w-screen-sm h-auto shadow-md">
+    <div class="overlay">
+      <div class="text">Ringe @ SLS x ZfK in Bremen</div>
+    </div>
+  </div>
+
+  <div class="gallery-item">
+    {% include vimeoPlayer.html id=1054528448?h=9cbd677d4a %}
+  </div>
+
+  <div class="gallery-item">
+    <img src="{{site.baseurl}}/assets/images/ringe/skanda_1.jpg"> alt="Ringe @ Skandalös Festival 2024" class="w-full max-w-screen-sm h-auto shadow-md">
+    <div class="overlay">
+      <div class="text">Ringe @ SLS x ZfK in Bremen</div>
+    </div>
+  </div>
+</div>
 
