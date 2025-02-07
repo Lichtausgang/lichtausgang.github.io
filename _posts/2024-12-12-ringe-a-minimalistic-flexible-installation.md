@@ -40,6 +40,16 @@ All materials used meet at least the B1 fire protection class.
   </div>
 
   <div class="gallery-item">
+    <video controls class="w-full max-w-screen-sm h-auto shadow-md">
+      <source src="{{site.baseurl}}/assets/videos/Mov_0960-1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div class="overlay">
+      <div class="text">Mov 0960-1</div>
+    </div>
+  </div>
+
+  <div class="gallery-item">
     <img src="{{site.baseurl}}/assets/images/ringe/skanda_1.jpg" alt="Ringe @ Skandalös Festival 2024" class="w-full max-w-screen-sm h-auto shadow-md">
     <div class="overlay">
       <div class="text">Ringe @ Skandalös Festival 2024</div>
@@ -47,6 +57,3 @@ All materials used meet at least the B1 fire protection class.
   </div>
 </div>
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1054547022?h=1833feadd3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Mov 0960-1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-<div style="padding:177.59% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1054528603?h=afcaf9f325&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ringe @ Skandalös Festival 2024"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
