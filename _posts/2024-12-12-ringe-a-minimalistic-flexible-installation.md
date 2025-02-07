@@ -38,11 +38,6 @@ All materials used meet at least the B1 fire protection class.
       <div class="text">Ringe @ SLS x ZfK in Bremen</div>
     </div>
   </div>
- 
-  <div class="gallery-item">
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1054528448?h=9cbd677d4a" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-  </div>
-
 
   <div class="gallery-item">
     <img src="{{site.baseurl}}/assets/images/ringe/skanda_1.jpg" alt="Ringe @ Skandalös Festival 2024" class="w-full max-w-screen-sm h-auto shadow-md">
@@ -50,9 +45,8 @@ All materials used meet at least the B1 fire protection class.
       <div class="text">Ringe @ Skandalös Festival 2024</div>
     </div>
   </div>
-
-  <div class="gallery-item">
-    <div style="padding:177.59% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1054528448?h=9cbd677d4a&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ringe @ Skandalös Festival 2024"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-  </div>
-
 </div>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1054528448?h=9cbd677d4a" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1054528603?h=afcaf9f325" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
