@@ -79,3 +79,8 @@ Each blinder is fitted with an extra M10 eyebolt for more versatile hanging opti
 
 </div>
 
+## Links
+- [Original WLED Software](https://github.com/wled-dev/WLED)
+- [Custom WLED Version](https://github.com/arneboe/WLED_ORIG/commits/lichtausgang_blinder/) *(Note: Most changes have been merged upstream)*
+- [DMX Library](https://github.com/someweisguy/esp_dmx) The DMX library used in this project.
+
